@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Edo {ZSec}</h1>
 <h3 align="center">A passionate penetration tester Indonesian</h3>
 
-- 📝 I regularly write articles on [https://eviltw.in](https://eviltw.in)
+- [https://eviltw.in](https://eviltw.in)
 
-- 💬 Ask me about **Penetration Tester**
+- **Penetration Tester**
 
-- 📫 Reach me **zsec@eviltw.in**
+- **zsec@eviltw.in**
 
-- ⚡ Fun fact **Menungso Biasa**
+- **Menungso Biasa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
