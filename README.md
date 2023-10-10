@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edo {ZSec}</h1>
-<h3 align="center"> **Penetration Tester** | Founder [https://eviltw.in](https://eviltw.in) | **Menungso Biasa** | **zsec@eviltw.in** </h3>
+<h3 align="center"> Penetration Tester | Founder EvilTwin | Menungso Biasa | zsec@eviltw.in </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
