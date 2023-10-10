@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/secghost/secghost/main/anime-inuyasha.gif" height="300px"> </p>
-<h2 align="center">Hi 👋, I'm Edo {ZSec}</h1>
+<h2 align="center">Youkoso てめ, I'm Edo {Sec666host}</h1>
 <p align="center"> Penetration Tester | Founder EvilTwin | Menungso Biasa | zsec@eviltw.in </p>
 
 <p align="center">
