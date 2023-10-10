@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/secghost/secghost/main/anime-inuyasha.gif" height="300px">
+<p align="center"> <img src="https://raw.githubusercontent.com/secghost/secghost/main/anime-inuyasha.gif" height="300px"> </p>
 <h2 align="center">Hi 👋, I'm Edo {ZSec}</h1>
 <h3 align="center"> Penetration Tester | Founder EvilTwin | Menungso Biasa | zsec@eviltw.in </h3>
 
