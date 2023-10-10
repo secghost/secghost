@@ -1,5 +1,5 @@
-<h1 align="center"> <img img="https://media.tenor.com/t1C88QWYNjIAAAAd/anime-inuyasha.gif" alt="inu"/></h1>
-<h1 align="center">Hi 👋, I'm Edo {ZSec}</h1>
+<h1 align="center"> <img img="anime-inuyasha.gif" alt="inu"/></h1>
+<h2 align="center">Hi 👋, I'm Edo {ZSec}</h1>
 <h3 align="center"> Penetration Tester | Founder EvilTwin | Menungso Biasa | zsec@eviltw.in </h3>
 
 <p align="center">
