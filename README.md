@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/secghost/secghost/main/anime-inuyasha.gif" height="300px"> </p>
 <h2 align="center">Hi 👋, I'm Edo {ZSec}</h1>
-<h3 align="center"> Penetration Tester | Founder EvilTwin | Menungso Biasa | zsec@eviltw.in </h3>
+<p align="center"> Penetration Tester | Founder EvilTwin | Menungso Biasa | zsec@eviltw.in </p>
 
 <p align="center">
 <a href="https://dev.to/zsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zsec" height="30" width="40" /></a>
